@@ -1,0 +1,23 @@
+{
+    "name": "Trippin AptHuman",
+    "symbol": "TRİPPY",
+    "description": "Tired of animals and not-so-pretty people? Let's clean them from PFF together",
+    "image": "6.png",
+    "attributes": [
+        {
+            "trait_type": "face",
+            "value": "body"
+        }
+    ],
+    "properties": {
+        "files": [
+            { 
+                "uri": "6.png",
+                "type": "image/png"
+            }    
+        ]
+    }
+}
+
+
+
